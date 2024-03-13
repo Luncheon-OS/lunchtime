@@ -1,2 +1,2 @@
 # lunchtime
-The installer for luncheonOS.
+> *"The installer for luncheonOS."*
